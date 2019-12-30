@@ -1,0 +1,2 @@
+msgbox SERVER_NAME
+
